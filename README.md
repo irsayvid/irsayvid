@@ -39,8 +39,10 @@
 </div>
 
 <p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=irsayvid&theme=radical" alt="irsayvid Github Stats" />
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=irsayvid&count_private=true&theme=radical"/></p>
-  <p align='center'><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=irsayvid&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=irsayvid&count_private=true&theme=radical"/>
+<!-- </p> -->
+<!--   <p align='center'> -->
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=irsayvid&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
   
   <div align="center">
  
