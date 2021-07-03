@@ -46,6 +46,11 @@
   <p align='center'>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=irsayvid&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/irsayvid/count.svg" />
+</p>
+
   <div align="center">
  
  ### Show some ❤️ by starring some of the repositories!
