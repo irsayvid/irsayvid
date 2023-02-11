@@ -6,7 +6,7 @@
 <!-- **irsayvid/irsayvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 Pursuing Electrical Engineering in NIT Rourkela
-- 🌱 Currently learning Gatsby, Datastructures and Algorithms
+- 🌱 Currently exploring data science
 - 🤝 Willing to collaborate on projects related to UN sustainable development goals
 - 💬 Ask me about communities, programming, web development and writing.
 - 😄 Pronouns: She/Her
@@ -20,7 +20,7 @@
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height = "20" src = "https://icon-library.com/images/django-icon/django-icon-0.jpg"> </code>
+<!-- <code><img height = "20" src = "https://icon-library.com/images/django-icon/django-icon-0.jpg"> </code> -->
 <code> <img height = "20" src="https://www.php.net/images/logos/new-php-logo.svg" > </code>
 <code> <img height="20" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> </code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
@@ -31,10 +31,8 @@
 <div align = "center">
   
 <!--   [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/irsayvid)  -->
-  [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/divyasri.darimisetti.5/)
   [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/divya-sri-darimisetti/)
   [<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/irsayvid)
-  [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC5F3-pLpVjL6a7IfSm1OttA)
   [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/irs.ayvid/) 
 </div>
 
